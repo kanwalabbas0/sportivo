@@ -1,4 +1,4 @@
 ---
-Title: Welcome to Sportivo360, Adedicated blog about sports discussions and updates.
+Title: Welcome to Sportivo360, A dedicated blog about sports discussions and updates.
 ---
 
